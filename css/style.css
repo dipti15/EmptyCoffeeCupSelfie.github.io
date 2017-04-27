@@ -24,7 +24,7 @@ h3.subs-title  {
     padding: 30px 0px 20px;
 }
 .memo_section{
-	width:85%;
+	width:80%;
 	margin-left:auto;
 	margin-right:auto;
 	font-family: 'Lato', sans-serif;
@@ -62,3 +62,13 @@ th {
 {
     text-decoration: none;
 }
+
+@media (min-width: 500px) {
+    .subcription-info{
+        width: 100%;
+}
+	.memo-section{
+        width: 100%;
+}
+}
+
