@@ -69,6 +69,8 @@ th {
     .subcription-info 
 	{
     	width: 100%;
+		padding-right:3px;
+		padding-left:3px;
 	}
 	h3.subs-title  {
     		font-size: 30px;
