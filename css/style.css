@@ -73,4 +73,12 @@ th {
 	padding-right:5px;
 		margin:0px;
 	}
-}	
+	h3.subs-title  {
+    		font-size: 30px;
+	}
+	.memo_section{
+		 width: 100%;
+    		font-size: 15px;
+	}
+}
+	
