@@ -250,7 +250,9 @@ footer {
 }
 
 .subscribe_form {
-    position: relative;
+    width : 60%;
+    margin-right : auto;
+	margin-left : auto;
 }
 .subscribe_form .subscribe {
     right: 0px;
@@ -299,8 +301,10 @@ Media Queries
     font-size: 15px;
 }
 .subcription-info {
-        width: 60%;
-        margin: 0 auto;
+        width: 80%;
+        margin-right:  auto;
+	margin-left:  auto;
+
 }
 body{
     overflow-x:hidden; 
