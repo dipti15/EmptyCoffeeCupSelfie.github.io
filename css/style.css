@@ -63,12 +63,5 @@ th {
     text-decoration: none;
 }
 
-@media (min-width: 500px) {
-    .subcription-info{
-        width: 100%;
-}
-	.memo-section{
-        width: 100%;
-}
-}
+
 
